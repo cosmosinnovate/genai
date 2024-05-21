@@ -1,3 +1,6 @@
-# Getting started with Gen AI
+# Getting started with Gen AI RAG
 
-This is Gen AI 101. If you are looking to get your hands dirty and start experimenting with Gen AI, then this helps you.
+[Link to Colab notebook](https://colab.research.google.com/drive/1ZbJr5hk1f3Satjewc3io0ISqME_BoPuQ#scrollTo=TANpyLFXzOGn)
+
+
+#rag #genai #genairag #ragsystem
